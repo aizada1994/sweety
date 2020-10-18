@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a76f55ec-e610-4e33-8fad-eb555d495836" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ixsyQojmfeVFyEKsPE32zL0uhW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a76f55ec-e610-4e33-8fad-eb555d495836" name="Default Changelist" comment="" />
+      <created>1602860831226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602860831226</updated>
+      <workItem from="1602860832281" duration="1495000" />
+      <workItem from="1602864966569" duration="2713000" />
+      <workItem from="1602871558329" duration="464000" />
+      <workItem from="1602921425381" duration="13945000" />
+      <workItem from="1602949788539" duration="2650000" />
+      <workItem from="1602966366714" duration="6778000" />
+      <workItem from="1603013393933" duration="100000" />
+      <workItem from="1603013499369" duration="5779000" />
+      <workItem from="1603022935497" duration="56000" />
+      <workItem from="1603023022001" duration="37000" />
+      <workItem from="1603023118694" duration="224000" />
+      <workItem from="1603023429919" duration="44000" />
+      <workItem from="1603023520092" duration="957000" />
+      <workItem from="1603024512722" duration="39000" />
+      <workItem from="1603024605580" duration="112000" />
+      <workItem from="1603024726713" duration="335000" />
+      <workItem from="1603026228041" duration="9000" />
+      <workItem from="1603026265836" duration="7169000" />
+      <workItem from="1603036660700" duration="1528000" />
+      <workItem from="1603038915951" duration="286000" />
+      <workItem from="1603039743947" duration="11000" />
+      <workItem from="1603039782405" duration="12000" />
+      <workItem from="1603039804340" duration="10000" />
+      <workItem from="1603039829178" duration="17000" />
+      <workItem from="1603039923365" duration="48000" />
+      <workItem from="1603040595115" duration="60000" />
+      <workItem from="1603042303481" duration="44000" />
+      <workItem from="1603042975546" duration="1236000" />
+      <workItem from="1603044333740" duration="171000" />
+      <workItem from="1603045131817" duration="815000" />
+      <workItem from="1603045997938" duration="3369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602869037429">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="458" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.798@0.23.1440.798" timestamp="1602869037429" />
+  </component>
+</project>
